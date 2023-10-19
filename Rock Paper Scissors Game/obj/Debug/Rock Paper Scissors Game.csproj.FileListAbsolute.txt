@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\HP\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\USER\Desktop\Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb
