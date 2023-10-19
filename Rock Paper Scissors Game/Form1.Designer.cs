@@ -1,4 +1,6 @@
-﻿namespace Rock_Paper_Scissors_Game
+﻿using System;
+
+namespace Rock_Paper_Scissors_Game
 {
     partial class Form1
     {
@@ -329,6 +331,11 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void PlayerChoicePicture_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
