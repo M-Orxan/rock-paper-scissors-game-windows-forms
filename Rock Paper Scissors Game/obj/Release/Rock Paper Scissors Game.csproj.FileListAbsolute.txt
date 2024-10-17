@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\bin\Release\Rock Paper Scissors Game.exe.config
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\bin\Release\Rock Paper Scissors Game.exe
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\bin\Release\Rock Paper Scissors Game.pdb
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.exe
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.pdb
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\bin\Release\Rock Paper Scissors Game.exe.manifest
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\bin\Release\Rock Paper Scissors Game.application
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.exe.manifest
+C:\Users\USER\Desktop\Github Projects\Rock-Paper-Scissors-Game\Rock Paper Scissors Game\obj\Release\Rock Paper Scissors Game.application
